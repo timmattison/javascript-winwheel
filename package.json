@@ -1,0 +1,22 @@
+{
+  "name": "winwheel",
+  "description": "",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": "timmattison/javascript-winwheel",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "Winwheel.js",
+    "Winwheel.min.js"
+  ],
+  "scripts": {
+  }
+}
