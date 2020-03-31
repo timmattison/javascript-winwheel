@@ -1,22 +1,10 @@
 {
-  "name": "winwheel",
+  "name": "timmattison-winwheel",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
-  "repository": "timmattison/javascript-winwheel",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "engines": {
-    "node": ">= 0.10.0"
-  },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "Winwheel.js",
-    "Winwheel.min.js"
-  ],
-  "scripts": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmattison/javascript-winwheel.git"
   }
 }
